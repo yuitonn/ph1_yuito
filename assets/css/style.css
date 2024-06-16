@@ -1,0 +1,116 @@
+/**
+* File Name : style.css
+* Version : 1.0
+* Description : POSSE課題 完成版
+* Since : 2023-05-07
+*
+* ---- Table of Contents ----
+*
+* 1.0 - Common
+*    1.1 - カスタムプロパティ
+*    1.2 - ベーススタイル
+*    1.3 - 汎用スタイル
+*
+* 2.0 - Sections
+*    2.1 - ヘッダー
+*    2.2 - フッター
+*    2.3 - メインビジュアル
+*    2.4 - POSSEとは
+*    2.5 - イベント
+*    2.6 - 日常生活
+*    2.7 - 公式LINE
+*
+* 3.0 - Animation, JavaScript Object
+*    3.1 - フェードイン
+*    3.2 - スライダー
+*
+*/
+
+/* 1.0 - Common */
+/* ============================================ */
+
+/**
+ * 1.1 - カスタムプロパティ
+ *
+ * https://developer.mozilla.org/ja/docs/Web/CSS/Using_CSS_custom_properties
+ */
+
+/**
+ * 1.2 - ベーススタイル
+ */
+body {
+  color: #333333;
+}
+
+/**
+ * 1.3 - 汎用スタイル
+ */
+
+/* 2.0 - Sections */
+/* ============================================ */
+
+/**
+ * 2.1 - ヘッダー
+ */
+
+/**
+ * 2.2 - フッター
+ */
+
+/**
+ * 2.3 - メインビジュアル
+ */
+
+/**
+ * 2.4 - POSSEとは
+ */
+
+/**
+ * 2.5 - イベント
+ */
+
+/**
+ * 2.6 - 日常生活
+ */
+
+/**
+ * 2.7 - 公式LINE
+ */
+
+/* 3.0 - Animation, JavaScript Object */
+/* ============================================ */
+
+/**
+ * 3.1 - フェードイン
+ */
+
+/**
+ * 3.2 - スライダー
+ */
+
+
+
+.container-title {
+  color: cadetblue;
+  font-size: 30px;
+  margin: 40px auto;
+}
+
+.favorite-tittle {
+  font-size: 20px;
+  color: cadetblue;
+}
+
+.favorite {
+  color: #3313e3;
+}
+
+body {
+	font-family:  "メイリオ", "ヒラギノ角ゴ Pro W3";
+	text-align: center;
+}
+
+.container-name {
+  font-family:  "メイリオ", "ヒラギノ角ゴ Pro W3";
+	text-align: center;
+}
